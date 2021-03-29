@@ -1,0 +1,32 @@
+G:\Personal Project\Project\Problem_2\EZPayBD.Repository\obj\Debug\netstandard2.1\Problem_2.Repository.csprojAssemblyReference.cache
+G:\Personal Project\Project\Problem_2\EZPayBD.Repository\obj\Debug\netstandard2.1\Problem_2.Repository.AssemblyInfoInputs.cache
+G:\Personal Project\Project\Problem_2\EZPayBD.Repository\obj\Debug\netstandard2.1\Problem_2.Repository.AssemblyInfo.cs
+G:\Personal Project\Project\Problem_2\EZPayBD.Repository\obj\Debug\netstandard2.1\Problem_2.Repository.csproj.CoreCompileInputs.cache
+G:\Personal Project\Project\Problem_2\Problem_2.Repository\bin\Debug\netstandard2.1\Problem_2.Repository.deps.json
+G:\Personal Project\Project\Problem_2\Problem_2.Repository\bin\Debug\netstandard2.1\Problem_2.Repository.dll
+G:\Personal Project\Project\Problem_2\Problem_2.Repository\bin\Debug\netstandard2.1\Problem_2.Repository.pdb
+G:\Personal Project\Project\Problem_2\Problem_2.Repository\bin\Debug\netstandard2.1\Problem_2.Database.dll
+G:\Personal Project\Project\Problem_2\Problem_2.Repository\bin\Debug\netstandard2.1\Problem_2.Utility.dll
+G:\Personal Project\Project\Problem_2\Problem_2.Repository\bin\Debug\netstandard2.1\Problem_2.Database.pdb
+G:\Personal Project\Project\Problem_2\Problem_2.Repository\bin\Debug\netstandard2.1\Problem_2.Utility.pdb
+G:\Personal Project\Project\Problem_2\Problem_2.Repository\obj\Debug\netstandard2.1\Problem_2.Repository.csprojAssemblyReference.cache
+G:\Personal Project\Project\Problem_2\Problem_2.Repository\obj\Debug\netstandard2.1\Problem_2.Repository.AssemblyInfoInputs.cache
+G:\Personal Project\Project\Problem_2\Problem_2.Repository\obj\Debug\netstandard2.1\Problem_2.Repository.AssemblyInfo.cs
+G:\Personal Project\Project\Problem_2\Problem_2.Repository\obj\Debug\netstandard2.1\Problem_2.Repository.csproj.CoreCompileInputs.cache
+G:\Personal Project\Project\Problem_2\Problem_2.Repository\obj\Debug\netstandard2.1\Problem_2.Repository.csproj.CopyComplete
+G:\Personal Project\Project\Problem_2\Problem_2.Repository\obj\Debug\netstandard2.1\Problem_2.Repository.dll
+G:\Personal Project\Project\Problem_2\Problem_2.Repository\obj\Debug\netstandard2.1\Problem_2.Repository.pdb
+G:\Problem_2\Problem_2\Problem_2.Repository\bin\Debug\netstandard2.1\Problem_2.Repository.deps.json
+G:\Problem_2\Problem_2\Problem_2.Repository\bin\Debug\netstandard2.1\Problem_2.Repository.dll
+G:\Problem_2\Problem_2\Problem_2.Repository\bin\Debug\netstandard2.1\Problem_2.Repository.pdb
+G:\Problem_2\Problem_2\Problem_2.Repository\bin\Debug\netstandard2.1\Problem_2.Database.dll
+G:\Problem_2\Problem_2\Problem_2.Repository\bin\Debug\netstandard2.1\Problem_2.Utility.dll
+G:\Problem_2\Problem_2\Problem_2.Repository\bin\Debug\netstandard2.1\Problem_2.Database.pdb
+G:\Problem_2\Problem_2\Problem_2.Repository\bin\Debug\netstandard2.1\Problem_2.Utility.pdb
+G:\Problem_2\Problem_2\Problem_2.Repository\obj\Debug\netstandard2.1\Problem_2.Repository.csprojAssemblyReference.cache
+G:\Problem_2\Problem_2\Problem_2.Repository\obj\Debug\netstandard2.1\Problem_2.Repository.AssemblyInfoInputs.cache
+G:\Problem_2\Problem_2\Problem_2.Repository\obj\Debug\netstandard2.1\Problem_2.Repository.AssemblyInfo.cs
+G:\Problem_2\Problem_2\Problem_2.Repository\obj\Debug\netstandard2.1\Problem_2.Repository.csproj.CoreCompileInputs.cache
+G:\Problem_2\Problem_2\Problem_2.Repository\obj\Debug\netstandard2.1\Problem_2.Repository.csproj.CopyComplete
+G:\Problem_2\Problem_2\Problem_2.Repository\obj\Debug\netstandard2.1\Problem_2.Repository.dll
+G:\Problem_2\Problem_2\Problem_2.Repository\obj\Debug\netstandard2.1\Problem_2.Repository.pdb

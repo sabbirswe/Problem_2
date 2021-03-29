@@ -1,0 +1,35 @@
+G:\Personal Project\EZPayBD\EZPayBD.Utility\bin\Debug\netstandard2.1\EZPayBD.Utility.deps.json
+G:\Personal Project\EZPayBD\EZPayBD.Utility\bin\Debug\netstandard2.1\EZPayBD.Utility.dll
+G:\Personal Project\EZPayBD\EZPayBD.Utility\bin\Debug\netstandard2.1\EZPayBD.Utility.pdb
+G:\Personal Project\EZPayBD\EZPayBD.Utility\bin\Debug\netstandard2.1\EZPayBD.Database.dll
+G:\Personal Project\EZPayBD\EZPayBD.Utility\bin\Debug\netstandard2.1\EZPayBD.Database.pdb
+G:\Personal Project\EZPayBD\EZPayBD.Utility\obj\Debug\netstandard2.1\EZPayBD.Utility.csprojAssemblyReference.cache
+G:\Personal Project\EZPayBD\EZPayBD.Utility\obj\Debug\netstandard2.1\EZPayBD.Utility.AssemblyInfoInputs.cache
+G:\Personal Project\EZPayBD\EZPayBD.Utility\obj\Debug\netstandard2.1\EZPayBD.Utility.AssemblyInfo.cs
+G:\Personal Project\EZPayBD\EZPayBD.Utility\obj\Debug\netstandard2.1\EZPayBD.Utility.csproj.CoreCompileInputs.cache
+G:\Personal Project\EZPayBD\EZPayBD.Utility\obj\Debug\netstandard2.1\EZPayBD.Utility.csproj.CopyComplete
+G:\Personal Project\EZPayBD\EZPayBD.Utility\obj\Debug\netstandard2.1\EZPayBD.Utility.dll
+G:\Personal Project\EZPayBD\EZPayBD.Utility\obj\Debug\netstandard2.1\EZPayBD.Utility.pdb
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Utility\bin\Debug\netstandard2.1\EZPayBD.Utility.deps.json
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Utility\bin\Debug\netstandard2.1\EZPayBD.Utility.dll
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Utility\bin\Debug\netstandard2.1\EZPayBD.Utility.pdb
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Utility\bin\Debug\netstandard2.1\EZPayBD.Database.dll
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Utility\bin\Debug\netstandard2.1\EZPayBD.Database.pdb
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Utility\obj\Debug\netstandard2.1\EZPayBD.Utility.csprojAssemblyReference.cache
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Utility\obj\Debug\netstandard2.1\EZPayBD.Utility.AssemblyInfoInputs.cache
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Utility\obj\Debug\netstandard2.1\EZPayBD.Utility.AssemblyInfo.cs
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Utility\obj\Debug\netstandard2.1\EZPayBD.Utility.csproj.CoreCompileInputs.cache
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Utility\obj\Debug\netstandard2.1\EZPayBD.Utility.csproj.CopyComplete
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Utility\obj\Debug\netstandard2.1\EZPayBD.Utility.dll
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Utility\obj\Debug\netstandard2.1\EZPayBD.Utility.pdb
+G:\Personal Project\Project\Problem_2\EZPayBD.Utility\bin\Debug\netstandard2.1\EZPayBD.Utility.deps.json
+G:\Personal Project\Project\Problem_2\EZPayBD.Utility\bin\Debug\netstandard2.1\EZPayBD.Utility.dll
+G:\Personal Project\Project\Problem_2\EZPayBD.Utility\bin\Debug\netstandard2.1\EZPayBD.Utility.pdb
+G:\Personal Project\Project\Problem_2\EZPayBD.Utility\bin\Debug\netstandard2.1\EZPayBD.Database.dll
+G:\Personal Project\Project\Problem_2\EZPayBD.Utility\bin\Debug\netstandard2.1\EZPayBD.Database.pdb
+G:\Personal Project\Project\Problem_2\EZPayBD.Utility\obj\Debug\netstandard2.1\EZPayBD.Utility.AssemblyInfoInputs.cache
+G:\Personal Project\Project\Problem_2\EZPayBD.Utility\obj\Debug\netstandard2.1\EZPayBD.Utility.AssemblyInfo.cs
+G:\Personal Project\Project\Problem_2\EZPayBD.Utility\obj\Debug\netstandard2.1\EZPayBD.Utility.csproj.CoreCompileInputs.cache
+G:\Personal Project\Project\Problem_2\EZPayBD.Utility\obj\Debug\netstandard2.1\EZPayBD.Utility.csproj.CopyComplete
+G:\Personal Project\Project\Problem_2\EZPayBD.Utility\obj\Debug\netstandard2.1\EZPayBD.Utility.dll
+G:\Personal Project\Project\Problem_2\EZPayBD.Utility\obj\Debug\netstandard2.1\EZPayBD.Utility.pdb

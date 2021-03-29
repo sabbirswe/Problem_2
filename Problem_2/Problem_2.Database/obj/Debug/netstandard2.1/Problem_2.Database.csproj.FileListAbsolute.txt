@@ -1,0 +1,27 @@
+G:\Personal Project\Project\Problem_2\EZPayBD.Database\obj\Debug\netstandard2.1\Problem_2.Database.csprojAssemblyReference.cache
+G:\Personal Project\Project\Problem_2\EZPayBD.Database\obj\Debug\netstandard2.1\Problem_2.Database.AssemblyInfoInputs.cache
+G:\Personal Project\Project\Problem_2\EZPayBD.Database\obj\Debug\netstandard2.1\Problem_2.Database.AssemblyInfo.cs
+G:\Personal Project\Project\Problem_2\EZPayBD.Database\obj\Debug\netstandard2.1\Problem_2.Database.csproj.CoreCompileInputs.cache
+G:\Personal Project\Project\Problem_2\EZPayBD.Database\bin\Debug\netstandard2.1\Problem_2.Database.deps.json
+G:\Personal Project\Project\Problem_2\EZPayBD.Database\bin\Debug\netstandard2.1\Problem_2.Database.dll
+G:\Personal Project\Project\Problem_2\EZPayBD.Database\bin\Debug\netstandard2.1\Problem_2.Database.pdb
+G:\Personal Project\Project\Problem_2\EZPayBD.Database\obj\Debug\netstandard2.1\Problem_2.Database.dll
+G:\Personal Project\Project\Problem_2\EZPayBD.Database\obj\Debug\netstandard2.1\Problem_2.Database.pdb
+G:\Personal Project\Project\Problem_2\Problem_2.Database\bin\Debug\netstandard2.1\Problem_2.Database.deps.json
+G:\Personal Project\Project\Problem_2\Problem_2.Database\bin\Debug\netstandard2.1\Problem_2.Database.dll
+G:\Personal Project\Project\Problem_2\Problem_2.Database\bin\Debug\netstandard2.1\Problem_2.Database.pdb
+G:\Personal Project\Project\Problem_2\Problem_2.Database\obj\Debug\netstandard2.1\Problem_2.Database.csprojAssemblyReference.cache
+G:\Personal Project\Project\Problem_2\Problem_2.Database\obj\Debug\netstandard2.1\Problem_2.Database.AssemblyInfoInputs.cache
+G:\Personal Project\Project\Problem_2\Problem_2.Database\obj\Debug\netstandard2.1\Problem_2.Database.AssemblyInfo.cs
+G:\Personal Project\Project\Problem_2\Problem_2.Database\obj\Debug\netstandard2.1\Problem_2.Database.csproj.CoreCompileInputs.cache
+G:\Personal Project\Project\Problem_2\Problem_2.Database\obj\Debug\netstandard2.1\Problem_2.Database.dll
+G:\Personal Project\Project\Problem_2\Problem_2.Database\obj\Debug\netstandard2.1\Problem_2.Database.pdb
+G:\Problem_2\Problem_2\Problem_2.Database\bin\Debug\netstandard2.1\Problem_2.Database.deps.json
+G:\Problem_2\Problem_2\Problem_2.Database\bin\Debug\netstandard2.1\Problem_2.Database.dll
+G:\Problem_2\Problem_2\Problem_2.Database\bin\Debug\netstandard2.1\Problem_2.Database.pdb
+G:\Problem_2\Problem_2\Problem_2.Database\obj\Debug\netstandard2.1\Problem_2.Database.csprojAssemblyReference.cache
+G:\Problem_2\Problem_2\Problem_2.Database\obj\Debug\netstandard2.1\Problem_2.Database.AssemblyInfoInputs.cache
+G:\Problem_2\Problem_2\Problem_2.Database\obj\Debug\netstandard2.1\Problem_2.Database.AssemblyInfo.cs
+G:\Problem_2\Problem_2\Problem_2.Database\obj\Debug\netstandard2.1\Problem_2.Database.csproj.CoreCompileInputs.cache
+G:\Problem_2\Problem_2\Problem_2.Database\obj\Debug\netstandard2.1\Problem_2.Database.dll
+G:\Problem_2\Problem_2\Problem_2.Database\obj\Debug\netstandard2.1\Problem_2.Database.pdb

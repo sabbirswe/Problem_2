@@ -1,0 +1,42 @@
+G:\Personal Project\EZPayBD\EZPayBD.Repository\bin\Debug\netstandard2.1\EZPayBD.Repository.deps.json
+G:\Personal Project\EZPayBD\EZPayBD.Repository\bin\Debug\netstandard2.1\EZPayBD.Repository.dll
+G:\Personal Project\EZPayBD\EZPayBD.Repository\bin\Debug\netstandard2.1\EZPayBD.Repository.pdb
+G:\Personal Project\EZPayBD\EZPayBD.Repository\bin\Debug\netstandard2.1\EZPayBD.Database.dll
+G:\Personal Project\EZPayBD\EZPayBD.Repository\bin\Debug\netstandard2.1\EZPayBD.Utility.dll
+G:\Personal Project\EZPayBD\EZPayBD.Repository\bin\Debug\netstandard2.1\EZPayBD.Database.pdb
+G:\Personal Project\EZPayBD\EZPayBD.Repository\bin\Debug\netstandard2.1\EZPayBD.Utility.pdb
+G:\Personal Project\EZPayBD\EZPayBD.Repository\obj\Debug\netstandard2.1\EZPayBD.Repository.csprojAssemblyReference.cache
+G:\Personal Project\EZPayBD\EZPayBD.Repository\obj\Debug\netstandard2.1\EZPayBD.Repository.AssemblyInfoInputs.cache
+G:\Personal Project\EZPayBD\EZPayBD.Repository\obj\Debug\netstandard2.1\EZPayBD.Repository.AssemblyInfo.cs
+G:\Personal Project\EZPayBD\EZPayBD.Repository\obj\Debug\netstandard2.1\EZPayBD.Repository.csproj.CoreCompileInputs.cache
+G:\Personal Project\EZPayBD\EZPayBD.Repository\obj\Debug\netstandard2.1\EZPayBD.Repository.csproj.CopyComplete
+G:\Personal Project\EZPayBD\EZPayBD.Repository\obj\Debug\netstandard2.1\EZPayBD.Repository.dll
+G:\Personal Project\EZPayBD\EZPayBD.Repository\obj\Debug\netstandard2.1\EZPayBD.Repository.pdb
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Repository\bin\Debug\netstandard2.1\EZPayBD.Repository.deps.json
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Repository\bin\Debug\netstandard2.1\EZPayBD.Repository.dll
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Repository\bin\Debug\netstandard2.1\EZPayBD.Repository.pdb
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Repository\bin\Debug\netstandard2.1\EZPayBD.Database.dll
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Repository\bin\Debug\netstandard2.1\EZPayBD.Utility.dll
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Repository\bin\Debug\netstandard2.1\EZPayBD.Database.pdb
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Repository\bin\Debug\netstandard2.1\EZPayBD.Utility.pdb
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Repository\obj\Debug\netstandard2.1\EZPayBD.Repository.csprojAssemblyReference.cache
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Repository\obj\Debug\netstandard2.1\EZPayBD.Repository.AssemblyInfoInputs.cache
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Repository\obj\Debug\netstandard2.1\EZPayBD.Repository.AssemblyInfo.cs
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Repository\obj\Debug\netstandard2.1\EZPayBD.Repository.csproj.CoreCompileInputs.cache
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Repository\obj\Debug\netstandard2.1\EZPayBD.Repository.csproj.CopyComplete
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Repository\obj\Debug\netstandard2.1\EZPayBD.Repository.dll
+C:\Users\mahdi\Desktop\EzpayAppNew\EZPayBD\EZPayBD.Repository\obj\Debug\netstandard2.1\EZPayBD.Repository.pdb
+G:\Personal Project\Project\Problem_2\EZPayBD.Repository\bin\Debug\netstandard2.1\EZPayBD.Repository.deps.json
+G:\Personal Project\Project\Problem_2\EZPayBD.Repository\bin\Debug\netstandard2.1\EZPayBD.Repository.dll
+G:\Personal Project\Project\Problem_2\EZPayBD.Repository\bin\Debug\netstandard2.1\EZPayBD.Repository.pdb
+G:\Personal Project\Project\Problem_2\EZPayBD.Repository\bin\Debug\netstandard2.1\EZPayBD.Database.dll
+G:\Personal Project\Project\Problem_2\EZPayBD.Repository\bin\Debug\netstandard2.1\EZPayBD.Utility.dll
+G:\Personal Project\Project\Problem_2\EZPayBD.Repository\bin\Debug\netstandard2.1\EZPayBD.Database.pdb
+G:\Personal Project\Project\Problem_2\EZPayBD.Repository\bin\Debug\netstandard2.1\EZPayBD.Utility.pdb
+G:\Personal Project\Project\Problem_2\EZPayBD.Repository\obj\Debug\netstandard2.1\EZPayBD.Repository.csprojAssemblyReference.cache
+G:\Personal Project\Project\Problem_2\EZPayBD.Repository\obj\Debug\netstandard2.1\EZPayBD.Repository.AssemblyInfoInputs.cache
+G:\Personal Project\Project\Problem_2\EZPayBD.Repository\obj\Debug\netstandard2.1\EZPayBD.Repository.AssemblyInfo.cs
+G:\Personal Project\Project\Problem_2\EZPayBD.Repository\obj\Debug\netstandard2.1\EZPayBD.Repository.csproj.CoreCompileInputs.cache
+G:\Personal Project\Project\Problem_2\EZPayBD.Repository\obj\Debug\netstandard2.1\EZPayBD.Repository.csproj.CopyComplete
+G:\Personal Project\Project\Problem_2\EZPayBD.Repository\obj\Debug\netstandard2.1\EZPayBD.Repository.dll
+G:\Personal Project\Project\Problem_2\EZPayBD.Repository\obj\Debug\netstandard2.1\EZPayBD.Repository.pdb

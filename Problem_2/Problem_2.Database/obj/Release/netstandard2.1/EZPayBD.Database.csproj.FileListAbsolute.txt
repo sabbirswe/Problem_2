@@ -1,0 +1,18 @@
+D:\Personal_Project\EZPayBD\EZPayBD.Database\bin\Release\netstandard2.1\EZPayBD.Database.deps.json
+D:\Personal_Project\EZPayBD\EZPayBD.Database\bin\Release\netstandard2.1\EZPayBD.Database.dll
+D:\Personal_Project\EZPayBD\EZPayBD.Database\bin\Release\netstandard2.1\EZPayBD.Database.pdb
+D:\Personal_Project\EZPayBD\EZPayBD.Database\obj\Release\netstandard2.1\EZPayBD.Database.csprojAssemblyReference.cache
+D:\Personal_Project\EZPayBD\EZPayBD.Database\obj\Release\netstandard2.1\EZPayBD.Database.AssemblyInfoInputs.cache
+D:\Personal_Project\EZPayBD\EZPayBD.Database\obj\Release\netstandard2.1\EZPayBD.Database.AssemblyInfo.cs
+D:\Personal_Project\EZPayBD\EZPayBD.Database\obj\Release\netstandard2.1\EZPayBD.Database.csproj.CoreCompileInputs.cache
+D:\Personal_Project\EZPayBD\EZPayBD.Database\obj\Release\netstandard2.1\EZPayBD.Database.dll
+D:\Personal_Project\EZPayBD\EZPayBD.Database\obj\Release\netstandard2.1\EZPayBD.Database.pdb
+G:\Personal Project\EZPayBD\EZPayBD.Database\bin\Release\netstandard2.1\EZPayBD.Database.deps.json
+G:\Personal Project\EZPayBD\EZPayBD.Database\bin\Release\netstandard2.1\EZPayBD.Database.dll
+G:\Personal Project\EZPayBD\EZPayBD.Database\bin\Release\netstandard2.1\EZPayBD.Database.pdb
+G:\Personal Project\EZPayBD\EZPayBD.Database\obj\Release\netstandard2.1\EZPayBD.Database.csprojAssemblyReference.cache
+G:\Personal Project\EZPayBD\EZPayBD.Database\obj\Release\netstandard2.1\EZPayBD.Database.AssemblyInfoInputs.cache
+G:\Personal Project\EZPayBD\EZPayBD.Database\obj\Release\netstandard2.1\EZPayBD.Database.AssemblyInfo.cs
+G:\Personal Project\EZPayBD\EZPayBD.Database\obj\Release\netstandard2.1\EZPayBD.Database.csproj.CoreCompileInputs.cache
+G:\Personal Project\EZPayBD\EZPayBD.Database\obj\Release\netstandard2.1\EZPayBD.Database.dll
+G:\Personal Project\EZPayBD\EZPayBD.Database\obj\Release\netstandard2.1\EZPayBD.Database.pdb
